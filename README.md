@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+#Functions
 # Functions I regularly use in R
 =======
 
