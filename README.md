@@ -1,5 +1,6 @@
+<<<<<<< HEAD
 # Functions I regularly use in R
-
+=======
 
 *estas son funciones que utilizo en R pero no necesariamente inventadas por mi*
 ## Otras formas de escribir en el Readme
