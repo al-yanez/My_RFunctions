@@ -1,8 +1,8 @@
-# Functions
+# Functions I used in R
 
-# Heading 1
 
-## Heading 2
+*estas son funciones que utilizo en R pero no necesariamente inventadas por mi*
+## Otras formas de escribir en el Readme
 
 ### Heading 3
 
@@ -23,9 +23,5 @@ Italic and bold:
 `verbatim`
 
 hello world 2
-
-sssasasgggg ajkldsfa
-
-ald
 
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)
